@@ -36,7 +36,6 @@ To build an automated and reusable **ETL pipeline** that:
 ## Tools & Technologies Used
 - Python  
 - Pandas  
-- NumPy  
 - Scikit-learn  
 - Google Colab (Jupyter Notebook)
 
