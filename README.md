@@ -93,5 +93,5 @@ It follows best practices in data science and fulfills the requirements of **COD
 
 ## Author
 **Pranav Mali**  
-- Data Science Intern – CODTECH.
-- student at Sanjivani College of Engineering, Kopargaon.
+Data Science Intern – CODTECH,
+student at Sanjivani College of Engineering, Kopargaon.
