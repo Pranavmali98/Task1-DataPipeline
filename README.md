@@ -64,10 +64,10 @@ To build an automated and reusable **ETL pipeline** that:
 
 ## Project Structure
 Task-1-Data-Pipeline/
-│── train.csv
-│── processed_data.csv
-│── Task1_Data_Pipeline.ipynb
-│── README.md
+│── train.csv.
+│── processed_data.csv.
+│── Task1_Data_Pipeline.ipynb.
+│── README.md.
 
 ---
 
@@ -93,5 +93,5 @@ It follows best practices in data science and fulfills the requirements of **COD
 
 ## Author
 **Pranav Mali**  
-Data Science Intern – CODTECH
-student at Sanjivani College of Engineering, Kopargaon
+Data Science Intern – CODTECH.
+student at Sanjivani College of Engineering, Kopargaon.
